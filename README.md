@@ -1,4 +1,4 @@
-# 專案名稱: worktest
+# 專案名稱: Restaurant Recommendation System
 ## 設定 
 1. 導入com.mysql.jdbc.Driver
    * 更改 build.gradle(:app) 其中的專案位置
